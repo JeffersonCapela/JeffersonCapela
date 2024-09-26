@@ -1,4 +1,4 @@
-# Olá, eu sou [Jefferson Capela]
+# Olá, eu sou o Jefferson Capela
 
 ## Sobre Mim
 Sou estudante de Ciência de Dados com um forte interesse em tecnologias emergentes. Tenho formação em Administração e completei o curso de Blockchain Developer da DIO em parceria com a Binance. Estou sempre buscando aprender e aplicar novas habilidades em projetos práticos.
